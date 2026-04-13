@@ -2,7 +2,7 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: ' Practica 2 Sistema Cardiovascular '
+title: ' Practica 3 Sistema musculoesqueletico '
 message: 'Modelado de sistemas fisiologicos / Ingenieria Biomedica '
 type: software
 authors:
@@ -14,7 +14,7 @@ identifiers:
   - type: url
     value: 'https://github.com/l20211965-creator/MSFPractica2'
     description: Repositorio Git Hub
-repository-code: 'https://github.com/l20211965-creator/MSFPractica2'
+repository-code: 'https://github.com/l20211965-creator/MSFPractica3'
 url: 'https://github.com/l20211965-creator/MSFPractica2'
 keywords:
   - Hipotenso
